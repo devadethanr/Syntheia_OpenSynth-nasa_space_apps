@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Oct 2023 11:56:27 at https://banu.ibthemespro.com/index.html?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://banu.ibthemespro.com/index.html?storefront=envato-elements -O1 "D:\ALAN\OSSITE\osweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:58:02	Error: 	"Not Found" (404) at link https://banu.ibthemespro.com/Profile.html (from https://banu.ibthemespro.com/index.html?storefront=envato-elements)
+11:58:04	Error: 	"Not Found" (404) at link https://banu.ibthemespro.com/fonts/slick.eot (from https://banu.ibthemespro.com/css/vendor/slick-theme.css)
+11:58:04	Error: 	"Not Found" (404) at link https://banu.ibthemespro.com/fonts/slickd41d.eot? (from https://banu.ibthemespro.com/css/vendor/slick-theme.css)
+11:58:04	Error: 	"Not Found" (404) at link https://banu.ibthemespro.com/fonts/slick.svg (from https://banu.ibthemespro.com/css/vendor/slick-theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 37 seconds : 240 links scanned, 235 files written (9108169 bytes overall) [5274428 bytes received at 54375 bytes/sec], 4967984 bytes transferred using HTTP compression in 65 files, ratio 21%, 26.6 requests per connection
+(4 errors, 0 warnings, 0 messages)
